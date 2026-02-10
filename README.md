@@ -1,41 +1,16 @@
-###  *Python & Automation Developer | IoT & Robotics Enthusiast | Exploring Secure, Smart Systems*
+### *Multi-Disciplinary Systems Developer | Engineering • Automation • Architecture | Solving Complex Problems*
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="600" height="4"/>
+</p>
 
-## **Languages & Tools**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=flat&logo=python)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 💡 **About Me**
-
-- 🧑‍💻 I’m a Junior Developer building **smart systems** that combine **Python**, **IoT**, and **Robotics**.
-- 🤖 Currently working on a **Humanoid Robot** and sensor-based automation using Raspberry Pi and MicroPython.
-- 🛡️ Interested in **Cybersecurity basics**, automation security, and secure coding practices.
-- ☁️ Learning cloud basics (AWS) and Docker to deploy and scale smart applications.
-- 📜 **Certified:** Python for Cybersecurity | Python for Data Science (IBM) | Google AI Essentials | NCFE Level 3 in Coding Practices.
-
----
-
-## 📂 **Pinned Projects**
-
-- ⚙️ **[MicroControllers-IOT](https://github.com/Ogbogu-FsDev/MicroControllers-IoT)** — e.g. Motion sensor system with Raspberry Pi Pico & MicroPython.
-- 🐍 **[Python-Automation-Scripts](https://github.com/Ogbogu-FsDev/Python-Automation-Scripts)** — Small Python tools to automate tasks.
-- 🔒 **[Python-Cybersecurity-Demos](https://github.com/Ogbogu-FsDev/Python-Cybersecurity-Demos)** — Practical scripts from my cybersecurity learning (coming soon!).
-- 🤖 **[Humanoid-Robot](https://github.com/Ogbogu-FsDev/Humanoid-Robot)** — My main robotics project (coming soon!).
-
----
-
-> *“Building smarter, safer systems — one script at a time.”*
-
----
-
-### 🔄 *Always learning. Always building.*
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0A192F?style=flat&logo=python&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-C-0A192F?style=flat&logo=c&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-C++-0A192F?style=flat&logo=cplusplus&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-Linux-0A192F?style=flat&logo=linux&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-Git-0A192F?style=flat&logo=git&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-Docker-0A192F?style=flat&logo=docker&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-0A192F?style=flat&logo=raspberry-pi&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/-Embedded-0A192F?style=flat&logo=arduino&logoColor=00E5FF"/>
+</p>
