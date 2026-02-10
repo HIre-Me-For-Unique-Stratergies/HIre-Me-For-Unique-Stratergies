@@ -1,4 +1,4 @@
-### *Multi-Disciplinary Systems Developer | Engineering • Automation • Architecture*
+### <p align="center"> *Multi-Disciplinary Systems Developer | Engineering • Automation • Architecture*</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="600" height="4"/>
